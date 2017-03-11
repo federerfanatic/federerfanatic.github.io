@@ -3,4 +3,6 @@ published: true
 title: What the hell.
 layout: post
 ---
-My first TinyPress post. Let's see.
+Just generated a ssh key using the cli tool ssh-keygen and then used 
+a cool program xclip to paste the key into github via chrome's clipboard.
+Very nice!
